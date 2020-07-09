@@ -7,7 +7,7 @@
     margin-bottom: 100px;
 }
 
-.navbar-nav{
+.navbar-nav, .collapse{
     background-color:#8fb48f;
     border: none ;
     margin: auto;
@@ -20,9 +20,10 @@
     margin-right: 200px;
 }
 .navbar{
-    top: 30px;
+    top: 25px;
     background-color:#8fb48f;
 }
+
 .btn{
     color: black;
     background: #21B573;
@@ -45,5 +46,71 @@ nav{
     height: 65px;
     margin-top: 15px;
 }
+.card-img-top{
+    width: 66px;
+    height: 85px;
+}
+.card{
+    border-radius: 10px;
+    background-color: cornsilk;
+    margin-left: 50px;
+    margin-right: 50px;
+    box-shadow: 5px 5px 9px cyan;
+    
+}
+.card:hover{
+    background-color: darkgrey;
+}
+.card-img{
+    width: 350px;
+}
+.online{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.text-testimonial{
+    text-align: center;
+    margin-bottom: 60px;
+}
+h4{
+    text-align: justify;
+}
+.row-footer{
+    height: 30px;
+    width: 95%;
+    display: flex;
+    align-items: flex-end;
+    justify-content:space-between
+    margin: 0;
+}
+.row-footer div{
+    padding: 0;    
+}
+li{
+list-style: none;
+color: blanchedalmond;
+}
+.list, .millions{
+    color: blanchedalmond;
+}
+.last-bg{
+    background-color: black;
+    height: 400px;
+}
+.col-md-3{
+    margin-top: 50px;
+}
+.bottom-line{
+    color: blanchedalmond;
+    text-align: center;
+}
+
+    
+    
+
+
+    
+
+
 
     
